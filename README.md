@@ -1,6 +1,6 @@
 # Clicky
 
-###Desccription
+### Description
 
 This is a memory game where you want to click on each image only once until all images have been clicked.
 The application renders 12 images to the screen.
@@ -11,9 +11,9 @@ If the score is higher than the high score, you get a new high score.
 
 ![Image of Clicky](https://github.com/mattsainson/clicky/blob/master/clicky.png)
 
-###Technical Details
+### Technical Details
 
-Run the app using: ```javascriptnpm start```
+Run the app using: ```npm start```
 
 The app was built using the following tools:
 
@@ -24,6 +24,6 @@ The app was built using the following tools:
 * JavaScript
 
 The source repository can be found here:
-[GitHub](https://github.com/mattsainson/clicky)
+[Clicky Repo](https://github.com/mattsainson/clicky)
 
 Made by: ma++ (May 2019)

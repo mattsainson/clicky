@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "bananas",
+    "image": "./assets/images/bananas-4138784__340.jpg"
+},
+{
+    "id": 2,
+    "name": "bread",
+    "image": "./assets/images/bread-4170338__340.jpg"
+},
+{
+    "id": 3,
+    "name": "cake",
+    "image": "./assets/images/cake-4167209__340.jpg"
+},
+{
+    "id": 4,
+    "name": "tomatoes",
+    "image": "./assets/images/tomato-4163959__340.jpg"
+},
+{
+    "id": 5,
+    "name": "coffee",
+    "image": "./assets/images/coffee-4164445__340.jpg"
+},
+{
+    "id": 6,
+    "name": "candy",
+    "image": "./assets/images/candy-4090697__340.jpg"
+},
+{
+    "id": 7,
+    "name": "chocolate",
+    "image": "./assets/images/chocolate-4144993__340.jpg"
+},
+{
+    "id": 8,
+    "name": "steak",
+    "image": "./assets/images/sideburn-4163932__340.jpg"
+},
+{
+    "id": 9,
+    "name": "onions",
+    "image": "./assets/images/farmers-market-onions-4165546__340.jpg"
+},
+{
+    "id": 10,
+    "name": "pretzels",
+    "image": "./assets/images/farmers-market-pretzels-4167346__340.jpg"
+},
+{
+    "id": 11,
+    "name": "peppers",
+    "image": "./assets/images/red-4093848__340.jpg"
+},
+{
+    "id": 12,
+    "name": "strawberries",
+    "image": "./assets/images/strawberries-4159028__340.jpg"
+}
+]
